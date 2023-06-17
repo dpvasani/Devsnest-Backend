@@ -25,4 +25,6 @@ The projects in this repository have been developed using the following tools an
 - Mongoose: A MongoDB object modeling tool designed to work in an asynchronous environment, providing a straightforward way to interact with MongoDB.
 - MongoDB: A NoSQL database used to store the data for the backend applications.
 
-## Replit : https://replit.com/@DarshanVasani?path=folder/Devsnest%20Backend
+## Replit 
+
+- To view and interact with the projects online using Replit, click [here](https://replit.com/@DarshanVasani?path=folder/Devsnest%20Backend){:target="_blank"}. 
