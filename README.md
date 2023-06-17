@@ -1,6 +1,6 @@
 # Devsnest-Backend
 
-This repository contains a collection of backend projects developed by me for the Devsnest Full Stack Web Development coding bootcamp. Each project focuses on different aspects of backend development using Node.js, Express, REST API, Mongoose, and MongoDB.
+- This repository contains a collection of backend projects developed by me for the Devsnest Full Stack Web Development coding bootcamp. Each project focuses on different aspects of backend development using Node.js, Express, REST API, Mongoose, and MongoDB. 🔧🚀
 
 ## Projects
 
