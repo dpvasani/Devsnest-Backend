@@ -27,4 +27,4 @@ The projects in this repository have been developed using the following tools an
 
 ## Replit 
 
-- To view and interact with the projects online using Replit, click [here](https://replit.com/@DarshanVasani?path=folder/Devsnest%20Backend){:target="_blank"}. 
+- To view and interact with the projects online using Replit, click [here](https://replit.com/@DarshanVasani?path=folder/Devsnest%20Backend). 
